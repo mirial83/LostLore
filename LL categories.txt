@@ -1,0 +1,31 @@
+There are many Lost Lore quests where numbered pages are collected, 
+The quest will list the page numbers that remain to be collected.
+
+Implemented zones with Lost Lore quests:
+Dwarf-holds: Ered Mithrin, Ironfold, Smaug, Thikil-gundu, (Moon-runes)
+Elderslade: Crystal Journal
+Gorgoroth: Agarnaith, Court of Seregost, Dor Amarth, Great Alliance, 
+	Lhingris, Talath Úrui, Udûn 
+Morgul Vale: Cirith Ungol, Minas Morgul, Thuringwath
+Stongholds: Dwarves, Elves, Men, The Secret Stone, The Lost Pages, 
+	The Mad Dwarf, The Key & Keyhole
+Vales: Old Mad Ubb, Tauralindalë
+
+There are also a variety of collection deeds with only a found count available.
+For these deeds it is critical to track found locations to know which ones remain.
+
+Rare Treasures: Agarnaith, Angmar, Azanulbizar, Câr Bronach, Cardolan,
+	Central Gondor, Clovengap, Deepscrave, Dor Amarth, Eastern Gondor, 
+	Elderslade, Ered Mithrin, Evendim, Far Anórien, Forochel, Gloomingtarn, 
+	Lhingris, Máttugard, Misty Mountains, North Downs, North Ithilien, 
+	Southern Mirkwood, Stonejaws, Swanfleet, Talath Úrui, the North, 
+	Thuringwath, Udûn, Vales, Welkin-lofts, Wells of Langflood, West Gondor
+Rare Gorgoroth Chests: Agarnaith, Dor Amarth, Lhingris, Talath Úrui, Udûn
+Rare Gundabad Chests: Câr Bronach, Clovengap, Deepscrave, 
+	Gloomingtarn, Máttugard, Stonejaws, Welkin-lofts
+Rare Mordor Treasures: Cirith Ungol, Minas Morgul, Mordor Besieged, Rath Dúath
+Dwarf Markers: Dwarf-holds, Dale-lands, Elderslade, Enedwaith, Wells of Langflood
+Bree-Land: History of the Dunedain, The Old Forest, Flowers of the Old Forest,
+	Flowers of the Wildwood
+the Wastes: Ranger Caches, Relics
+Other: Lost Trail, Floid and Dewitt, Floid and Dewitt 2
