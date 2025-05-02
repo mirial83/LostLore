@@ -1,21 +1,22 @@
-Seregost = "49.0s,33.0e" 
-Sg = "Seregost"
-Sgl = "Seregost: "
-Tg = "Thikil-gundu"
-Gd = "Glimmerdeep"
-Nb = "Naerband"
-Naerband = "63.8s,18.5e"
-HuM,HuML = "Hall under Mtn","14.7n,135.2w"
-TU = "Torech Ungol@61.4s,4.6e"
-TUn = "Must finish 'She Who Walks in the Darkness' to enter Torech Ungol."
-Fg = "Felegoth"
-Fix = {["the North"]="Strongholds"}
+--Seregost = "49.0s,33.0e" 
+--Sg = "Seregost"
+--Sgl = "Seregost: "
+--Tg = "Thikil-gundu"
+--Gd = "Glimmerdeep"
+--Nb = "Naerband"
+--Naerband = "63.8s,18.5e"
+--HuM,HuML = "Hall under Mtn","14.7n,135.2w"
+--TU = "Torech Ungol@61.4s,4.6e"
+--TUn = "Must finish 'She Who Walks in the Darkness' to enter Torech Ungol."
+--Fg = "Felegoth"
+--Fix = {["the North"]="Strongholds"}
+Tales = "Tales of Yore"
 It = "item"
 Pl = "place"
 Npc = "npc"
 TC = "Treasure Cache or Chest"
 RMC = "Rare Mordor Chest"
-Region = { Eriador=1, Rhovanion=2, Gondor=3, Mordor=4, Haradwaith=5 }
+Region = { Eriador=1, Rhovanion=2, Gondor=3, Mordor=4, Haradwaith=5, Tales=14 }
 Atype = {D="Deed", Q="Quest"}
 Reward = { B="Barter items", C="Coins", D="Decor", I="Legendary Item Exp",
 		L="LOTRO points", M="Marks", O="Other", R="Reputation", 
